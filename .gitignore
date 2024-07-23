@@ -1,0 +1,9 @@
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore the IPinfo access token file
+token.txt
+
+logs/
